@@ -1,0 +1,441 @@
+{
+  "orders": [
+    {
+      "table": "m6",
+      "server": "Qadir",
+      "status": "Sonlanib",
+      "bill": 48,
+      "startDate": "1-2-2023 1:32:51",
+      "meals": [
+        {
+          "id": 1,
+          "name": "Hamburger",
+          "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2799&q=80",
+          "price": 8,
+          "description": "Bizim hamburgerimiz yüngül qızardılmış çörəkdə şirəli, qızardılmış mal əti köftəsinə malikdir. Ərinmiş pendir, xırtıldayan kahı, yetişmiş pomidor və acı turşu ilə doldurulmuş bu, ləzzət və teksturanın mükəmməl birləşməsidir. Xırtıldayan kartof qızartması ilə servis edilir, bu, ən rahat yeməkdir.",
+          "quantity": 3,
+          "startTime": "1:32"
+        },
+        {
+          "id": 2,
+          "name": "Pizza Margaritta",
+          "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 14,
+          "description": "Bizim Margherita pizzamız klassik Neapolitan tipli pizzadır, üstü acı pomidor sousu, qaymaqlı mozzarella pendiri və təzə reyhan yarpaqları ilə örtülmüş əl ilə uzanan qabığa malikdir. Odun sobamızda mükəmməl bişmiş, hər hansı bir pizza həvəskarı üçün ləzzətli və doyurucu seçimdir. Dostlarla bölüşmək və ya tək başınıza əylənmək üçün mükəmməldir.",
+          "quantity": 1,
+          "startTime": "1:32"
+        },
+        {
+          "id": 3,
+          "name": "Sezar Salat",
+          "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 10,
+          "description": "Sezar salatımızın təzə və canlı ləzzətlərindən həzz alın. Xırtıldayan romaine kahı bizim evdə hazırlanmış Sezar sosu, Parmesan pendiri və xırtıldayan krutonlarla qarışdırılır, tekstura və ləzzətlərin mükəmməl qarışığını yaradır. Zülalla zəngin bir seçim üçün ızgara toyuq və ya karides əlavə edin və ya yan yemək kimi sadə və təravətləndirici saxlayın. İstənilən yemək üçün dadlı və sağlam seçimdir.",
+          "quantity": 1,
+          "startTime": "1:32"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "table": "m6",
+      "server": "Rza",
+      "status": "Sonlanib",
+      "bill": 32,
+      "startDate": "1-2-2023 1:33:9",
+      "meals": [
+        {
+          "id": 3,
+          "name": "Sezar Salat",
+          "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 10,
+          "description": "Sezar salatımızın təzə və canlı ləzzətlərindən həzz alın. Xırtıldayan romaine kahı bizim evdə hazırlanmış Sezar sosu, Parmesan pendiri və xırtıldayan krutonlarla qarışdırılır, tekstura və ləzzətlərin mükəmməl qarışığını yaradır. Zülalla zəngin bir seçim üçün ızgara toyuq və ya karides əlavə edin və ya yan yemək kimi sadə və təravətləndirici saxlayın. İstənilən yemək üçün dadlı və sağlam seçimdir.",
+          "quantity": 2,
+          "startTime": "1:32"
+        },
+        {
+          "id": 4,
+          "name": "Nuggets",
+          "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+          "price": 12,
+          "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin.",
+          "quantity": 1,
+          "startTime": "1:33"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "table": "m2",
+      "server": "Əli",
+      "status": "Sonlanib",
+      "bill": 134,
+      "startDate": "1-2-2023 1:33:28",
+      "meals": [
+        {
+          "id": 1,
+          "name": "Hamburger",
+          "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2799&q=80",
+          "price": 8,
+          "description": "Bizim hamburgerimiz yüngül qızardılmış çörəkdə şirəli, qızardılmış mal əti köftəsinə malikdir. Ərinmiş pendir, xırtıldayan kahı, yetişmiş pomidor və acı turşu ilə doldurulmuş bu, ləzzət və teksturanın mükəmməl birləşməsidir. Xırtıldayan kartof qızartması ilə servis edilir, bu, ən rahat yeməkdir.",
+          "quantity": 5,
+          "startTime": "1:33"
+        },
+        {
+          "id": 3,
+          "name": "Sezar Salat",
+          "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 10,
+          "description": "Sezar salatımızın təzə və canlı ləzzətlərindən həzz alın. Xırtıldayan romaine kahı bizim evdə hazırlanmış Sezar sosu, Parmesan pendiri və xırtıldayan krutonlarla qarışdırılır, tekstura və ləzzətlərin mükəmməl qarışığını yaradır. Zülalla zəngin bir seçim üçün ızgara toyuq və ya karides əlavə edin və ya yan yemək kimi sadə və təravətləndirici saxlayın. İstənilən yemək üçün dadlı və sağlam seçimdir.",
+          "quantity": 2,
+          "startTime": "1:33"
+        },
+        {
+          "id": 2,
+          "name": "Pizza Margaritta",
+          "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 14,
+          "description": "Bizim Margherita pizzamız klassik Neapolitan tipli pizzadır, üstü acı pomidor sousu, qaymaqlı mozzarella pendiri və təzə reyhan yarpaqları ilə örtülmüş əl ilə uzanan qabığa malikdir. Odun sobamızda mükəmməl bişmiş, hər hansı bir pizza həvəskarı üçün ləzzətli və doyurucu seçimdir. Dostlarla bölüşmək və ya tək başınıza əylənmək üçün mükəmməldir.",
+          "quantity": 1,
+          "startTime": "1:33"
+        },
+        {
+          "id": 4,
+          "name": "Nuggets",
+          "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+          "price": 12,
+          "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin.",
+          "quantity": 5,
+          "startTime": "1:33"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "table": "m5",
+      "server": "Anar",
+      "status": "Sonlanib",
+      "bill": 72,
+      "startDate": "1-2-2023 1:33:44",
+      "meals": [
+        {
+          "id": 5,
+          "name": "Kartof fri",
+          "img": "https://images.unsplash.com/photo-1623238912680-26fc5ffb57e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 6,
+          "description": "Dadlı qızardılmış kartofumuzla iştahınızı təmin edin. Çöldə xırtıldayan, içi isə yumşaq olan kartofumuz yüngülcə ədviyyatlı və mükəmməl qızardılır. Onları hər hansı bir yeməklə garnitür kimi yeyin və ya müstəqil qəlyanaltı kimi sifariş edin. Mükəmməl xırtıldayan və dadlı, onlar izdihamın sevimlisidir.",
+          "quantity": 6,
+          "startTime": "1:33"
+        },
+        {
+          "id": 4,
+          "name": "Nuggets",
+          "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+          "price": 12,
+          "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin.",
+          "quantity": 3,
+          "startTime": "1:33"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "table": "m2",
+      "server": "Cəbrayıl",
+      "status": "Sonlanib",
+      "bill": 118,
+      "startDate": "1-2-2023 1:33:59",
+      "meals": [
+        {
+          "id": 1,
+          "name": "Hamburger",
+          "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2799&q=80",
+          "price": 8,
+          "description": "Bizim hamburgerimiz yüngül qızardılmış çörəkdə şirəli, qızardılmış mal əti köftəsinə malikdir. Ərinmiş pendir, xırtıldayan kahı, yetişmiş pomidor və acı turşu ilə doldurulmuş bu, ləzzət və teksturanın mükəmməl birləşməsidir. Xırtıldayan kartof qızartması ilə servis edilir, bu, ən rahat yeməkdir.",
+          "quantity": 4,
+          "startTime": "1:33"
+        },
+        {
+          "id": 2,
+          "name": "Pizza Margaritta",
+          "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 14,
+          "description": "Bizim Margherita pizzamız klassik Neapolitan tipli pizzadır, üstü acı pomidor sousu, qaymaqlı mozzarella pendiri və təzə reyhan yarpaqları ilə örtülmüş əl ilə uzanan qabığa malikdir. Odun sobamızda mükəmməl bişmiş, hər hansı bir pizza həvəskarı üçün ləzzətli və doyurucu seçimdir. Dostlarla bölüşmək və ya tək başınıza əylənmək üçün mükəmməldir.",
+          "quantity": 1,
+          "startTime": "1:33"
+        },
+        {
+          "id": 4,
+          "name": "Nuggets",
+          "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+          "price": 12,
+          "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin.",
+          "quantity": 4,
+          "startTime": "1:33"
+        },
+        {
+          "id": 5,
+          "name": "Kartof fri",
+          "img": "https://images.unsplash.com/photo-1623238912680-26fc5ffb57e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 6,
+          "description": "Dadlı qızardılmış kartofumuzla iştahınızı təmin edin. Çöldə xırtıldayan, içi isə yumşaq olan kartofumuz yüngülcə ədviyyatlı və mükəmməl qızardılır. Onları hər hansı bir yeməklə garnitür kimi yeyin və ya müstəqil qəlyanaltı kimi sifariş edin. Mükəmməl xırtıldayan və dadlı, onlar izdihamın sevimlisidir.",
+          "quantity": 4,
+          "startTime": "1:33"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "table": "m9",
+      "server": "Yusif",
+      "status": "Sonlanib",
+      "bill": 114,
+      "startDate": "1-2-2023 1:34:13",
+      "meals": [
+        {
+          "id": 1,
+          "name": "Hamburger",
+          "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2799&q=80",
+          "price": 8,
+          "description": "Bizim hamburgerimiz yüngül qızardılmış çörəkdə şirəli, qızardılmış mal əti köftəsinə malikdir. Ərinmiş pendir, xırtıldayan kahı, yetişmiş pomidor və acı turşu ilə doldurulmuş bu, ləzzət və teksturanın mükəmməl birləşməsidir. Xırtıldayan kartof qızartması ilə servis edilir, bu, ən rahat yeməkdir.",
+          "quantity": 6,
+          "startTime": "1:34"
+        },
+        {
+          "id": 2,
+          "name": "Pizza Margaritta",
+          "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 14,
+          "description": "Bizim Margherita pizzamız klassik Neapolitan tipli pizzadır, üstü acı pomidor sousu, qaymaqlı mozzarella pendiri və təzə reyhan yarpaqları ilə örtülmüş əl ilə uzanan qabığa malikdir. Odun sobamızda mükəmməl bişmiş, hər hansı bir pizza həvəskarı üçün ləzzətli və doyurucu seçimdir. Dostlarla bölüşmək və ya tək başınıza əylənmək üçün mükəmməldir.",
+          "quantity": 4,
+          "startTime": "1:34"
+        },
+        {
+          "id": 3,
+          "name": "Sezar Salat",
+          "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 10,
+          "description": "Sezar salatımızın təzə və canlı ləzzətlərindən həzz alın. Xırtıldayan romaine kahı bizim evdə hazırlanmış Sezar sosu, Parmesan pendiri və xırtıldayan krutonlarla qarışdırılır, tekstura və ləzzətlərin mükəmməl qarışığını yaradır. Zülalla zəngin bir seçim üçün ızgara toyuq və ya karides əlavə edin və ya yan yemək kimi sadə və təravətləndirici saxlayın. İstənilən yemək üçün dadlı və sağlam seçimdir.",
+          "quantity": 1,
+          "startTime": "1:34"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "table": "m12",
+      "server": "Murad",
+      "status": "Sonlanib",
+      "bill": 150,
+      "startDate": "1-2-2023 1:34:47",
+      "meals": [
+        {
+          "id": 4,
+          "name": "Nuggets",
+          "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+          "price": 12,
+          "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin.",
+          "quantity": 10,
+          "startTime": "1:34"
+        },
+        {
+          "id": 5,
+          "name": "Kartof fri",
+          "img": "https://images.unsplash.com/photo-1623238912680-26fc5ffb57e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+          "price": 6,
+          "description": "Dadlı qızardılmış kartofumuzla iştahınızı təmin edin. Çöldə xırtıldayan, içi isə yumşaq olan kartofumuz yüngülcə ədviyyatlı və mükəmməl qızardılır. Onları hər hansı bir yeməklə garnitür kimi yeyin və ya müstəqil qəlyanaltı kimi sifariş edin. Mükəmməl xırtıldayan və dadlı, onlar izdihamın sevimlisidir.",
+          "quantity": 5,
+          "startTime": "1:34"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "table": "m8",
+      "server": "Şəhla",
+      "status": "Sonlanib",
+      "bill": 20,
+      "startDate": "1-2-2023 1:34:57",
+      "meals": [
+        {
+          "id": 3,
+          "name": "Sezar Salat",
+          "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+          "price": 10,
+          "description": "Sezar salatımızın təzə və canlı ləzzətlərindən həzz alın. Xırtıldayan romaine kahı bizim evdə hazırlanmış Sezar sosu, Parmesan pendiri və xırtıldayan krutonlarla qarışdırılır, tekstura və ləzzətlərin mükəmməl qarışığını yaradır. Zülalla zəngin bir seçim üçün ızgara toyuq və ya karides əlavə edin və ya yan yemək kimi sadə və təravətləndirici saxlayın. İstənilən yemək üçün dadlı və sağlam seçimdir.",
+          "quantity": 2,
+          "startTime": "1:34"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "table": "m2",
+      "server": "Leyla",
+      "status": "Sonlanib",
+      "bill": 24,
+      "startDate": "1-2-2023 1:42:54",
+      "meals": [
+        {
+          "id": 4,
+          "name": "Nuggets",
+          "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+          "price": 12,
+          "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin.",
+          "quantity": 2,
+          "startTime": "1:42"
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "meals": [
+    {
+      "id": 1,
+      "name": "Hamburger",
+      "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2799&q=80",
+      "price": 8,
+      "description": "Bizim hamburgerimiz yüngül qızardılmış çörəkdə şirəli, qızardılmış mal əti köftəsinə malikdir. Ərinmiş pendir, xırtıldayan kahı, yetişmiş pomidor və acı turşu ilə doldurulmuş bu, ləzzət və teksturanın mükəmməl birləşməsidir. Xırtıldayan kartof qızartması ilə servis edilir, bu, ən rahat yeməkdir."
+    },
+    {
+      "id": 2,
+      "name": "Pizza Margaritta",
+      "img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "price": 14,
+      "description": "Bizim Margherita pizzamız klassik Neapolitan tipli pizzadır, üstü acı pomidor sousu, qaymaqlı mozzarella pendiri və təzə reyhan yarpaqları ilə örtülmüş əl ilə uzanan qabığa malikdir. Odun sobamızda mükəmməl bişmiş, hər hansı bir pizza həvəskarı üçün ləzzətli və doyurucu seçimdir. Dostlarla bölüşmək və ya tək başınıza əylənmək üçün mükəmməldir."
+    },
+    {
+      "id": 3,
+      "name": "Sezar Salat",
+      "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "price": 10,
+      "description": "Sezar salatımızın təzə və canlı ləzzətlərindən həzz alın. Xırtıldayan romaine kahı bizim evdə hazırlanmış Sezar sosu, Parmesan pendiri və xırtıldayan krutonlarla qarışdırılır, tekstura və ləzzətlərin mükəmməl qarışığını yaradır. Zülalla zəngin bir seçim üçün ızgara toyuq və ya karides əlavə edin və ya yan yemək kimi sadə və təravətləndirici saxlayın. İstənilən yemək üçün dadlı və sağlam seçimdir."
+    },
+    {
+      "id": 4,
+      "name": "Nuggets",
+      "img": "https://images.unsplash.com/photo-1562967914-608f82629710?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
+      "price": 12,
+      "description": "Xırtıldayan və dadlı toyuq ətindən zövq alın. Yumşaq, şirəli toyuq ətindən hazırlanmış ədviyyatlı çörəklə örtülür və qızılı qəhvəyi rəngə qədər qızardılır. Qəlyanaltı və ya yemək kimi mükəmməldir, onlar həm uşaqlar, həm də böyüklər üçün əladır. Seçdiyiniz daldırma sousu ilə verilir, onlar dadlı və doyurucu seçimdir. Onları qəlyanaltı kimi və ya qarışıq yeməyin bir hissəsi kimi sifariş edin."
+    },
+    {
+      "id": 5,
+      "name": "Kartof fri",
+      "img": "https://images.unsplash.com/photo-1623238912680-26fc5ffb57e4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "price": 6,
+      "description": "Dadlı qızardılmış kartofumuzla iştahınızı təmin edin. Çöldə xırtıldayan, içi isə yumşaq olan kartofumuz yüngülcə ədviyyatlı və mükəmməl qızardılır. Onları hər hansı bir yeməklə garnitür kimi yeyin və ya müstəqil qəlyanaltı kimi sifariş edin. Mükəmməl xırtıldayan və dadlı, onlar izdihamın sevimlisidir."
+    }
+  ],
+  "tables": [
+    {
+      "id": 1,
+      "name": "m1"
+    },
+    {
+      "id": 2,
+      "name": "m2"
+    },
+    {
+      "id": 3,
+      "name": "m3"
+    },
+    {
+      "id": 4,
+      "name": "m4"
+    },
+    {
+      "id": 5,
+      "name": "m5"
+    },
+    {
+      "id": 6,
+      "name": "m6"
+    },
+    {
+      "id": 7,
+      "name": "m7"
+    },
+    {
+      "id": 8,
+      "name": "m8"
+    },
+    {
+      "id": 9,
+      "name": "m9"
+    },
+    {
+      "id": 10,
+      "name": "m10"
+    },
+    {
+      "id": 11,
+      "name": "m11"
+    },
+    {
+      "id": 12,
+      "name": "m12"
+    }
+  ],
+  "servers": [
+    {
+      "id": 1,
+      "name": "Əli",
+      "surname": "Hüseynov",
+      "age": 22
+    },
+    {
+      "id": 2,
+      "name": "Murad",
+      "surname": "Məlikli",
+      "age": 33
+    },
+    {
+      "id": 3,
+      "name": "Rza",
+      "surname": "İsmayılov",
+      "age": 19
+    },
+    {
+      "id": 4,
+      "name": "Cəbrayıl",
+      "surname": "Balayev",
+      "age": 18
+    },
+    {
+      "id": 5,
+      "name": "Qadir",
+      "surname": "Əliyev",
+      "age": 25
+    },
+    {
+      "id": 6,
+      "name": "Şəhla",
+      "surname": "Məmmədova",
+      "age": 21
+    },
+    {
+      "id": 7,
+      "name": "Leyla",
+      "surname": "Hüseynova",
+      "age": 29
+    },
+    {
+      "id": 8,
+      "name": "Arif",
+      "surname": "Əhmədli",
+      "age": 27
+    },
+    {
+      "id": 9,
+      "name": "Anar",
+      "surname": "Əsgərov",
+      "age": 32
+    },
+    {
+      "id": 10,
+      "name": "Yusif",
+      "surname": "Quliyev",
+      "age": 20
+    }
+  ]
+}
